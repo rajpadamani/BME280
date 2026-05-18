@@ -1,0 +1,1 @@
+This project contains the source code of the BME280 sensor using the SPI.
